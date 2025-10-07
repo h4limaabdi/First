@@ -15,6 +15,13 @@ It is my first project and helped me practice:
 - Using images and captions
 - Styling with CSS
 
+## Features
+- Sections for each destination
+- Images with captions of the highlights
+- "Learn More" buttons linking to external Wikipedia pages
+- A form with a message input for feedback
+- Styled with CSS only 
+
  # Technologies used
  -HTML
  -CSS
