@@ -1,6 +1,12 @@
 # Mombasa Heritage
 A basic HTML and CSS about my high school trip to **Mombasa, Kenya**. It shows three destinations: **Gedi Ruins**, **Fort Jesus**, and **Hell's Kitchen**. Using images, short descriptions, links to learn more, and highlights of the spot.
- 
+
+## Table of Contents
+-[Overview](#overview)
+-[Features](#features)
+-[How to View](#how-to-view)
+[Author](#author)
+
  # Technologies used
  -HTML
  -CSS
