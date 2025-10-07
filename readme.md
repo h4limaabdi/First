@@ -22,37 +22,24 @@ It is my first project and helped me practice:
 - A form with a message input for feedback
 - Styled with CSS only 
 
- # Technologies used
- -HTML
- -CSS
+ ## Technologies used
+ - HTML
+ - CSS
 
-# Folder Structure
+## Folder Structure
 -images
 -photography.html
 -readme.md
 -styles.css
 
-# Destinations 
+## How to view
+You view it using the gh-pages live server I linked to the description, or:
+1. Download or clone this project.
+2. Open the folder on your computer.
+3. Double-click on `index.html` to open it in your browser
 
-We were taken to three destinations, each day we apent at one location.
-## 1. Hell’s Kitchen
-A dramatic sandstone canyon with layered colors that change with the light.  
-It’s often called “Kenya’s Grand Canyon” and is especially beautiful at sunset.  
-
-
-## 2. Fort Jesus  
-A UNESCO World Heritage site built by the Portuguese in the 16th century.  
-The fort played a huge role in the history of the Swahili Coast and is full of history and culture.  
-
-
-## 3. Gede Ruins  
-The remains of an ancient Swahili town hidden in the forest.  
-It’s an archaeological site that shows the mix of African, Arab, and Asian influences in coastal Kenya. 
-
-## outcome
-This trip gave me a chance  to escape my family it was an exciting and new, oh and i also got to experience Kenya’s coastal heritage from natural wonders to historical landmarks. It was like 3 days but it was nice honestly.
-
-
-
+## Author
+Created by **https://github.com/h4limaabdi**
+Built using only HTML and CSS.
 
 
