@@ -1,4 +1,4 @@
-#  <img width="408" height="408" alt="image" src="https://github.com/user-attachments/assets/aad04973-77fd-4267-bfc7-1fe8ddadb49c" /> Mombasa Heritage
+#  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/aad04973-77fd-4267-bfc7-1fe8ddadb49c" /> Mombasa Heritage
 A basic HTML and CSS about my high school trip to **Mombasa, Kenya**. It shows three destinations: **Gedi Ruins**, **Fort Jesus**, and **Hell's Kitchen**. Using images, short descriptions, links to learn more, and highlights of the spot.
 
 ## Table of Contents
