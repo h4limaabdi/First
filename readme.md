@@ -4,6 +4,8 @@ A basic HTML and CSS about my high school trip to **Mombasa, Kenya**. It shows t
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Folder Structure](#folder-structure)
 - [How to View](#how-to-view)
 - [Author](#author)
 
