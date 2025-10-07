@@ -29,10 +29,10 @@ It is my first project and helped me practice:
  - CSS
 
 ## 📁Folder Structure
--images
--photography.html
--readme.md
--styles.css
+- images
+- photography.html
+- readme.md
+- styles.css
 
 ## 😶‍🌫️ How to view
 You view it using the gh-pages live server I linked to the description, or:
@@ -41,7 +41,7 @@ You view it using the gh-pages live server I linked to the description, or:
 3. Double-click on `index.html` to open it in your browser
 
 ## 👩‍💻 Author
-Created by ✨**https://github.com/h4limaabdi**✨
+Created by ✨ **https://github.com/h4limaabdi** ✨
 Built using only HTML and CSS.
 
 
