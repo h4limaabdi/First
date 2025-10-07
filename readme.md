@@ -1,5 +1,5 @@
 # Mombasa Heritage
-This was my first overnight trip in general. Also the only occassion where i took decent photos. 
+A basic HTML and CSS about my high school trip to **Mombasa, Kenya**. It shows three destinations: **Gedi Ruins**, **Fort Jesus**, and **Hell's Kitchen**. Using images, short descriptions, links to learn more, and highlights of the spot.
  
  # Technologies used
  -HTML
